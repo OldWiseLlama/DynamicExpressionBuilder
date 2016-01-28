@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ExpressionHelperUnitTests.cs" />
     <Compile Include="SortExpressionBuilderTests.cs" />
     <Compile Include="FilterExpressionBuilderTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
