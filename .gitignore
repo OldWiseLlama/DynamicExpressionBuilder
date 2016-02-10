@@ -50,6 +50,6 @@ Temporary Items
 **/bin
 **/obj
 _ReSharper.DynamicExpressionBuilder
-packages
+packages/**
 **/*.user
 **/*.suo
